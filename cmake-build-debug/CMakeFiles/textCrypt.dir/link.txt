@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/textCrypt.dir/main.cpp.o  -o textCrypt 
